@@ -2,6 +2,8 @@ import QtQuick 2.6
 import QtQuick.Controls 1.5
 import QtQuick.Dialogs 1.2
 
+import "./qml/extended_tab_view" as Flow
+
 ApplicationWindow {
     visible: true
     width: 640
@@ -22,7 +24,7 @@ ApplicationWindow {
         }
     }
 
-    ExtendedTabView {
+    Flow.ExtendedTabView {
         anchors.fill: parent
     }
 }

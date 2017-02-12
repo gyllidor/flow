@@ -1,9 +1,8 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>MainForm.ui.qml</file>
-        <file>ExtendedTabView.qml</file>
-        <file>Tabs.qml</file>
-        <file>Tab.qml</file>
+        <file>qml/extended_tab_view/ExtendedTabView.qml</file>
+        <file>qml/extended_tab_view/Tab.qml</file>
+        <file>qml/extended_tab_view/Tabs.qml</file>
     </qresource>
 </RCC>
