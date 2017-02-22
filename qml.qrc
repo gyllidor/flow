@@ -4,5 +4,8 @@
         <file>qml/extended_tab_view/ExtendedTabView.qml</file>
         <file>qml/extended_tab_view/Tab.qml</file>
         <file>qml/extended_tab_view/Tabs.qml</file>
+        <file>qml/extended_tab_view/FilesListView.qml</file>
+        <file>qml/extended_tab_view/FileLine.qml</file>
+        <file>qml/extended_tab_view/FileLineItem.qml</file>
     </qresource>
 </RCC>
